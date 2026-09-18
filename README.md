@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Jack 👋
 
-<!--
-**murtonj2003/murtonj2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Founder's Associate for sustainability startups** — the operator who turns a founder's mission into systems that run.
 
-Here are some ideas to get you started:
+Not the ideas person. The one who makes the ideas work: ops, data, growth and impact — and, increasingly, building the tools myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 What I'm about
+- Currently **Founder's Associate @ Resting Reef** — working across growth, data and impact
+- Background in sustainability & ESG (first-class Environmental Science)
+- People → Planet → Profit, in that order
+
+#### 🔨 What I'm building & learning here
+- Exploring **agentic AI systems** and how to put them to real work
+- Learning to build on **existing databases, CRMs and tools** rather than starting from scratch
+- Side project: **Telo** — an AI-assisted gym tracker (Supabase · Vercel)
+
+#### 📫 Reach me
+- 🌐 [jackmurtonesg.com](https://jackmurtonesg.com)
+- 💼 [LinkedIn](https://linkedin.com/in/jackmurton)
+- ✉️ murton.j2003@gmail.com
