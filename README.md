@@ -15,6 +15,6 @@ Not the ideas person. The one who makes the ideas work: ops, data, growth and im
 - Side project: **Telo** — an AI-assisted gym tracker (Supabase · Vercel)
 
 #### 📫 Reach me
-- 🌐 [jackmurtonesg.com](https://jackmurtonesg.com)
+- 🌐 [jackmurton.com](https://jackmurton.com)
 - 💼 [LinkedIn](https://linkedin.com/in/jackmurton)
 - ✉️ murton.j2003@gmail.com
